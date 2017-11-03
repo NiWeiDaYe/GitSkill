@@ -1,1 +1,2 @@
-# GitSkill
+﻿# GitSkill
+Git creat branch is fast！
